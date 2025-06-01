@@ -1,0 +1,130 @@
+{
+    "share_strengthen_panel_type": "",
+    "profile_like_status_shown_on_cover": 1,
+    "interaction_element_dd_config": null,
+    "feed_related_recommend_stable_entrance": null,
+    "AWESLIDES_SCALE_EXPERIMENT": null,
+    "AWEFeedAlbumShortDescShowExpansion": false,
+    "AWEMusicDetailRelatedEnable": {
+        "enable": false,
+        "cover_ui_type": 2
+    },
+    "detail_page_panel_config": {
+        "enable": 0,
+        "panel_hide_related_video": 0,
+        "default_fullscreen": 0,
+        "panel_hide_related_commend": 1,
+        "single_column_jump_inner": 0,
+        "enlarge_author_area": 0,
+        "video_translation": 1,
+        "expand_2_fullscreen": 1,
+        "single_column": 1,
+        "collapse_mode": 0,
+        "enable_preload": 0,
+        "collapse_height": 0.56000000000000005,
+        "return_to_feed_in_feed_bottom": false,
+        "feed_page_entrance": 0,
+        "not_relative_entrance": 1
+    },
+    "long_press_fast_speed_enabled_scene": true,
+    "long_press_lock_speed_config": {
+        "enable": 1,
+        "distance": 100,
+        "show_capsule": 0
+    },
+    "long_press_play_control_modal_switch": 0,
+    "long_press_modal_show_hint_label": false,
+    "long_press_play_control_modal_quick_items": [
+        "dislike",
+        "familiar_recommend"
+    ],
+    "edge_fast_speed_toast_style": false,
+    "long_press_panel_speed_optimize": {
+        "long_press_new_speed_array": [
+            0.5,
+            0.75,
+            1,
+            1.25,
+            1.5,
+            2,
+            3
+        ],
+        "long_press_new_speed_enable": 1
+    },
+    "homepage_remote_ab_config": {
+        "homepage_remote_click_show_enable": false,
+        "homepage_remote_mode_style": 2,
+        "homepage_remote_long_click_show_enable": false,
+        "homepage_remote_double_click_show_enable": false,
+        "homepage_remote_panel_auto_dismiss": false
+    },
+    "homepage_long_press_setting": {
+        "enable": 0,
+        "setting_array": [
+            "refresh",
+            "preview_mode",
+            "direct_switch_c2"
+        ],
+        "title_dict": {
+            "refresh": "刷新内容",
+            "preview_mode": "选择视图",
+            "direct_switch_c2": "切换单双列"
+        },
+        "click_direct_switch_c2": 1,
+        "default_setting": "preview_mode",
+        "version": 20250514,
+        "bubble_id": "home_longpress_finishsetting_bubble",
+        "enable_setting_panel": 1
+    },
+    "c2_recommend_feed_entry_style": {
+        "enable": 0,
+        "new_entry": 1,
+        "entry_detail": {
+            "background": "#38000000",
+            "radius": 10,
+            "icon": "http:\/\/p3-main-activity.byteimg.com\/tos-cn-i-3a9ajr9h4x\/entry_icon.png~tplv-3a9ajr9h4x-1:0:0.image",
+            "type": 0,
+            "text": "双列"
+        },
+        "switch_button": 1,
+        "button_detail": {
+            "disable_fold": "1",
+            "icon_mid": "http:\/\/p3-main-activity.byteimg.com\/tos-cn-i-3a9ajr9h4x\/mid_button_icon.png~tplv-3a9ajr9h4x-1:0:0.image",
+            "icon_right": "http:\/\/p3-main-activity.byteimg.com\/tos-cn-i-3a9ajr9h4x\/right_button_icon.png~tplv-3a9ajr9h4x-1:0:0.image",
+            "text": "返回单列"
+        }
+    },
+    "double_column_recommend_exp": {
+        "feed_double_column_preload_limit_count": 9,
+        "entrance": 0,
+        "show_video_time": false,
+        "dislike_longpress_panel_config": {
+            "texts": {
+                "btn_advertising": "疑似广告",
+                "btn_sex": "色情低俗",
+                "btn_similar": "相似过多",
+                "btn_uncomfortable": "内容不适",
+                "btn_live_fake": "封面非本人",
+                "btn_live_awful": "内容质量差",
+                "btn_category": "该内容",
+                "btn_liver": "该主播",
+                "title_feedback": "‼️ 我要反馈️",
+                "btn_author": "该作者",
+                "btn_live_content": "该直播",
+                "btn_live_cover": "封面令人不适",
+                "title_dislike": "💔 我不喜欢",
+                "btn_live_title": "标题令人不适"
+            }
+        },
+        "guide_max_count": 0,
+        "enable_reuse_cover_from_2c": true,
+        "show_video_icon": false,
+        "welcome_card_url_light": "https:\/\/lf3-static.bytednsdoc.com\/obj\/eden-cn\/lrbkeh7bpqnuhojnuhpq\/welcome_card_light.png",
+        "transiton_optimization": 1,
+        "quick_switch_text": "切换模式",
+        "welcome_card_url_dark": "https:\/\/lf3-static.bytednsdoc.com\/obj\/eden-cn\/lrbkeh7bpqnuhojnuhpq\/welcome_card_dark.png",
+        "enable_hide_timestamp_in_hompage_square": 1,
+        "show_photos_icon": true,
+        "title_row_number": 2
+    }
+}
