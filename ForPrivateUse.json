@@ -1,10 +1,14 @@
 {
     "share_strengthen_panel_type": "",
     "profile_like_status_shown_on_cover": 1,
+    "favorite_list_style": 1,
     "interaction_element_dd_config": null,
     "feed_related_recommend_stable_entrance": null,
     "AWESLIDES_SCALE_EXPERIMENT": null,
     "AWEFeedAlbumShortDescShowExpansion": false,
+    "AWENotesDotProgress": false,
+    "AWEDetailCommentInputShow": false,
+    "feed_desc_lines_count": 5,
     "AWEMusicDetailRelatedEnable": {
         "enable": false,
         "cover_ui_type": 2
@@ -25,6 +29,14 @@
         "return_to_feed_in_feed_bottom": false,
         "feed_page_entrance": 0,
         "not_relative_entrance": 1
+    },
+    "AWEFullPageEnableRelatedRecommend": {
+        "enable": false,
+        "scene": [
+            "homepage_hot",
+            "general_search"
+        ],
+        "tab_title": "相关推荐"
     },
     "long_press_fast_speed_enabled_scene": true,
     "long_press_lock_speed_config": {

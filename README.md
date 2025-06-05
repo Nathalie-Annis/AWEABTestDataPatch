@@ -17,23 +17,29 @@
 | 键名 | 说明 | 默认行为 |
 |------|------|----------|
 | `share_strengthen_panel_type` | 新版分享面板 | 添加此键即开启 |
-| `profile_like_status_shown_on_cover` | 主页点赞红心展示 | 设置为 `1` 开启 |
-| `interaction_element_dd_config` | 自定义图文图标大小失效问题 | **删除此键** 可恢复 |
+| `profile_like_status_shown_on_cover` | 主页点赞红心展示 | `1` 开启 |
+| `favorite_list_style` | 收藏列表切换样式按钮 | `1` 开启(仅热更新配置有效) |
+| `interaction_element_dd_config` | 自定义图文图标大小失效问题 | **删除此键** 可解决 |
 | `feed_related_recommend_stable_entrance` | 文案末尾小箭头 | **删除此键** 不显示 |
-| `AWESLIDES_SCALE_EXPERIMENT` | 评论弹出时上移图文内容 | **删除此键** 可关闭 |
-| `AWEFeedAlbumShortDescShowExpansion` | 图文文案“展开”按钮控制 | 设置为 `false` 不显示 |
+| `AWESLIDES_SCALE_EXPERIMENT` | 评论弹出时上移图文内容 | **删除此键** 可禁止 |
+| `AWEFeedAlbumShortDescShowExpansion` | 图文文案完整时显示展开按钮 | `false` 不显示 |
+| `AWENotesDotProgress` | 部分多图图文新版滑条样式 | `false` 不显示 |
+| `AWEDetailCommentInputShow` | 图文展开后显示中部评论条 | `false` 不显示(34.2.0及以下) |
+| `feed_desc_lines_count` | 部分图文文案显示的行数 | 官方默认值 `2` |
 | `AWEMusicDetailRelatedEnable` | 新版音乐图标 | `enable=false`不显示 |
 | `detail_page_panel_config` | 视频文案展开样式控制 | `enable=0` 仅展开文案；`enable=1` 展示相关推荐 |
-| `long_press_fast_speed_enabled_scene` | 长按触发2倍速播放 | 设置为 `true` 开启 |
+| `AWEFullPageEnableRelatedRecommend` | 图文文案展开样式控制 | `enable=false` 仅展开文案；`enable=true` 展示相关推荐 |
+| `long_press_fast_speed_enabled_scene` | 长按触发2倍速播放 | `true` 开启 |
 | `long_press_lock_speed_config` | 长按上/下拉锁定倍速触发距离 | 修改 `distance`，官方默认值 `distance=250` |
-| `long_press_play_control_modal_switch` | 新版长按菜单 | 设置为 `0` 关闭 |
-| `long_press_modal_show_hint_label` | 新版长按菜单显示操作提示 | 设置为 `false` 关闭 |
+| `long_press_play_control_modal_switch` | 新版长按菜单 | `0` 关闭 |
+| `long_press_modal_show_hint_label` | 新版长按菜单显示操作提示 | `false` 关闭 |
 | `long_press_play_control_modal_quick_items` | 新版长按菜单左右按钮显示的功能 | 设置为特定值开启对应功能 |
-| `edge_fast_speed_toast_style` | 长按侧边倍速显示样式跟随新版长按菜单顶部样式 | 设置为 `false` 关闭 |
+| `edge_fast_speed_toast_style` | 长按侧边倍速显示样式跟随新版长按菜单顶部样式 | `false` 关闭 |
 | `long_press_panel_speed_optimize` | 自定义长按面板中的倍速选项 | 可自由配置倍速参数 |
 | `homepage_remote_ab_config`  `homepage_long_press_setting` | 首页单击/双击/长按行为配置 | 设置为 `false` 关闭相关功能 |
 | `c2_recommend_feed_entry_style` | 首页双列按钮 | `enable=0` 关闭 | 
 | `double_column_recommend_exp` | 顶部推荐 Tab 样式及刷新机制 | 控制小白条展示行为 | 
+| `*` | 更多 | 待发掘 |
 
 ---
 
