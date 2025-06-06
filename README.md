@@ -16,7 +16,7 @@
 
 | 键名 | 说明 | 默认行为 |
 |------|------|----------|
-| `share_strengthen_panel_type` | 新版分享面板 | 添加此键即开启 |
+| `share_strengthen_panel_type` | 新版分享面板 | 设为""开启 |
 | `profile_like_status_shown_on_cover` | 主页点赞红心展示 | `1` 开启 |
 | `favorite_list_style` | 收藏列表切换样式按钮 | `1` 开启(仅热更新配置有效) |
 | `interaction_element_dd_config` | 自定义图文图标大小失效问题 | **删除此键** 可解决 |
