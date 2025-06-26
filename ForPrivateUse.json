@@ -112,6 +112,21 @@
         "homepage_remote_double_click_show_enable": false,
         "homepage_remote_panel_auto_dismiss": false
     },
+    "hp_left_slide_to_user_page_config": {
+        "edge_slide_width": 200,
+        "guide_config": {
+            "trigger_play_progress": 70
+        },
+        "main_tab_slide_width": 99999,
+        "support_tabs": {
+            "homepage_familiar": {},
+            "homepage_follow": {},
+            "homepage_hot": {},
+            "homepage_nearby": {},
+            "homepage_pad_hot": {},
+            "homepage_tablive": {}
+        }
+    },
     "interaction_element_dd_config": null,
     "long_press_fast_speed_enabled_scene": true,
     "long_press_lock_speed_config": {
