@@ -49,7 +49,6 @@
 | `AWEFullPageEnableRelatedRecommend` | 图文文案展开样式控制 | `enable=false` 仅展开文案；`enable=true` 展示相关推荐 |
 | `AWEMusicDetailRelatedEnable` | 新版音乐图标 | `enable=false`不显示 |
 | `AWENotesDotProgress` | 部分多图图文新版滑条样式 | `true`/`false` 控制 |
-| `AWESLIDES_SCALE_EXPERIMENT` | 评论弹出时上移图文内容 | **删除此键** 以禁止图文上移 |
 | `c2_recommend_feed_entry_style` | 首页双列按钮 | `enable=0` 关闭 | 
 | `detail_page_panel_config` | 视频文案展开样式控制 | `enable=0` 仅展开文案；`enable=1` 展示相关推荐 |
 | `double_column_recommend_exp` | 顶部推荐 Tab 样式及刷新机制 | 控制小白条展示行为 | 
