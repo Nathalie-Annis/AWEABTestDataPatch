@@ -14,6 +14,7 @@
         "cover_ui_type": 2
     },
     "AWENotesDotProgress": false,
+    "AWESLIDES_SCALE_EXPERIMENT": null,
     "c2_recommend_feed_entry_style": {
         "enable": 0,
         "new_entry": 1,
@@ -151,6 +152,7 @@
         "dislike"
     ],
     "long_press_play_control_modal_switch": 1,
+    "pinch_video_scale_follow_opt": 1,
     "profile_like_status_shown_on_cover": 1,
     "profile_post_hot_sort_exposed": 0,
     "share_strengthen_panel_type": ""

@@ -151,6 +151,7 @@
         "familiar_recommend"
     ],
     "long_press_play_control_modal_switch": 0,
+    "pinch_video_scale_follow_opt": 1,
     "profile_like_status_shown_on_cover": 1,
     "profile_post_hot_sort_exposed": 0,
     "share_strengthen_panel_type": ""
