@@ -65,6 +65,7 @@
 | `long_press_panel_speed_optimize` | 自定义长按面板中的倍速选项 | 可自由配置倍速参数 |
 | `long_press_play_control_modal_quick_items` | 新版长按菜单左右按钮显示的功能 | 设置为特定值开启对应功能 |
 | `long_press_play_control_modal_switch` | 新版长按菜单 | `1`/`0` 控制 |
+| `pinch_video_scale_follow_opt` | 清屏状态下双指缩放画面 | `1`/`0` 控制 |
 | `profile_like_status_shown_on_cover` | 主页点赞红心展示 | `1`/`0` 控制 |
 | `profile_post_hot_sort_exposed` | 主页新版最新最热标签 | 用户主页只有作品时显示, `1`/`0` 控制 |
 | `share_strengthen_panel_type` | 新版分享面板 | 设为""开启 |
