@@ -15,6 +15,7 @@
     },
     "AWENotesDotProgress": false,
     "AWESLIDES_SCALE_EXPERIMENT": null,
+    "background_play_small_window_config": 0,
     "c2_recommend_feed_entry_style": {
         "enable": 0,
         "new_entry": 1,
@@ -152,6 +153,7 @@
         "dislike"
     ],
     "long_press_play_control_modal_switch": 1,
+    "pinch_long_press_hot_area_opt": 1,
     "pinch_video_scale_follow_opt": 1,
     "profile_like_status_shown_on_cover": 1,
     "profile_post_hot_sort_exposed": 0,

@@ -49,6 +49,8 @@
 | `AWEFullPageEnableRelatedRecommend` | 图文文案展开样式控制 | `enable=false` 仅展开文案；`enable=true` 展示相关推荐 |
 | `AWEMusicDetailRelatedEnable` | 新版音乐图标 | `enable=false`不显示 |
 | `AWENotesDotProgress` | 部分多图图文新版滑条样式 | `true`/`false` 控制 |
+| `AWESLIDES_SCALE_EXPERIMENT` | 评论弹出时上移图文内容 | **删除此键** 以禁止图文上移 |
+| `background_play_small_window_config` | 此键值生效后，播放设置中的清屏状态下后台小窗播放（此时支持图文小窗播放）将替换为后台小窗播放（此为官方默认状态） | `1`/`0` 控制 |
 | `c2_recommend_feed_entry_style` | 首页双列按钮 | `enable=0` 关闭 | 
 | `detail_page_panel_config` | 视频文案展开样式控制 | `enable=0` 仅展开文案；`enable=1` 展示相关推荐 |
 | `double_column_recommend_exp` | 顶部推荐 Tab 样式及刷新机制 | 控制小白条展示行为 | 
@@ -65,6 +67,7 @@
 | `long_press_panel_speed_optimize` | 自定义长按面板中的倍速选项 | 可自由配置倍速参数 |
 | `long_press_play_control_modal_quick_items` | 新版长按菜单左右按钮显示的功能 | 设置为特定值开启对应功能 |
 | `long_press_play_control_modal_switch` | 新版长按菜单 | `1`/`0` 控制 |
+| `pinch_long_press_hot_area_opt` | 清屏状态下等价于长按菜单的按钮 | `1`/`0` 控制 |
 | `pinch_video_scale_follow_opt` | 清屏状态下双指缩放画面 | `1`/`0` 控制 |
 | `profile_like_status_shown_on_cover` | 主页点赞红心展示 | `1`/`0` 控制 |
 | `profile_post_hot_sort_exposed` | 主页新版最新最热标签 | 用户主页只有作品时显示, `1`/`0` 控制 |
