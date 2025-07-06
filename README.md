@@ -23,6 +23,13 @@
 ---
 
 ## 🛠 使用方法
+- 🌟应用方式使用远程模式（推荐）
+    1. 增强设置-热更新-禁止下发配置开启,配置应用方式>远程模式
+    2. 远程配置地址根据自身需要选择：
+        - `https://github.com/Nathalie-Annis/AWEABTestDataPatch/releases/latest/download/ABTestDataPatch_A.json` （稳定版，插件默认指定无需修改） 
+        - `https://github.com/Nathalie-Annis/AWEABTestDataPatch/releases/latest/download/ABTestDataPatch_B.json` （尝鲜版，将A替换为B即可）
+        - `https://raw.githubusercontent.com/Nathalie-Annis/AWEABTestDataPatch/refs/heads/main/ForPrivateUse.json` （自用版）
+    3. 点击检查配置更新，重启 App 即可生效
 
 - 🌟应用方式使用覆写模式（推荐）
     1. 选择一个合适的热更新补丁版本，下载补丁文件
@@ -72,14 +79,15 @@
 | `profile_like_status_shown_on_cover` | 主页点赞红心展示 | `1`/`0` 控制 |
 | `profile_post_hot_sort_exposed` | 主页新版最新最热标签 | 用户主页只有作品时显示, `1`/`0` 控制 |
 | `share_strengthen_panel_type` | 新版分享面板 | 设为""开启 |
-| `*` | 更多 | 待发掘, 欢迎pr |
+| **`*`** | **更多功能** | **待发掘，欢迎提出 / PR ！❤️热更新的发现有赖于不同人下发的不同配置❤️** |
 
 ---
 
 ## 📎 注意事项
 
+* 部分热更新功能会随着版本更新而被固化，这也是热更新的意义所在；这将会导致这些功能不再受热更新控制——切用且珍惜
+* 部分热更新键值仅在高客户端版本下有效，客户端版本过低会导致失效，请根据实际情况调整
 * 热更新补丁仅在最新版本的客户端中测试
-* 配置可能因客户端版本不同而略有差异或失效，请根据实际情况调整
 
 ---
 
