@@ -15,8 +15,8 @@
             "enable": false,
             "cover_ui_type": 2
         },
-        "background_play_small_window_config": 0,
         "AWENotesDotProgress": false,
+        "background_play_small_window_config": 0,
         "c2_recommend_feed_entry_style": {
             "enable": 0,
             "new_entry": 1,
