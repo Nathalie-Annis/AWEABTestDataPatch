@@ -129,6 +129,7 @@
                 "homepage_tablive": {}
             }
         },
+        "im_share_panel_arrangement_strategy": null,
         "interaction_element_dd_config": null,
         "long_press_fast_speed_enabled_scene": true,
         "long_press_lock_speed_config": {
