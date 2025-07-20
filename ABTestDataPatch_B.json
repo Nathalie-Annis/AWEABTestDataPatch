@@ -130,6 +130,7 @@
             }
         },
         "im_share_panel_arrangement_strategy": null,
+        "im_support_user_bubble": "-1",
         "interaction_element_dd_config": null,
         "long_press_fast_speed_enabled_scene": true,
         "long_press_lock_speed_config": {
