@@ -80,6 +80,7 @@
 | `pinch_video_scale_follow_opt` | 清屏状态下双指缩放画面 | `1`/`0` 控制 |
 | `profile_like_status_shown_on_cover` | 主页点赞红心展示 | `1`/`0` 控制 |
 | `profile_post_hot_sort_exposed` | 主页新版最新最热标签 | 用户主页只有作品时显示, `1`/`0` 控制 |
+| `recommend_to_friend_tag_view_refactor` | 推荐给朋友标签右侧编辑按钮 | `true`/`false` 控制 |
 | `share_strengthen_panel_type` | 新版分享面板 | `""`开启 |
 | **`*`** | **更多功能** | **待发掘，欢迎提出 / PR ！❤️热更新的发现有赖于不同人下发的不同配置❤️** |
 

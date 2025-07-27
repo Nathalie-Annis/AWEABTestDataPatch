@@ -160,6 +160,7 @@
         "pinch_video_scale_follow_opt": 1,
         "profile_like_status_shown_on_cover": 1,
         "profile_post_hot_sort_exposed": 0,
+        "recommend_to_friend_tag_view_refactor": true,
         "share_strengthen_panel_type": ""
     }
 }
