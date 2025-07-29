@@ -53,9 +53,19 @@
             "not_relative_entrance": 1
         },
         "double_column_recommend_exp": {
+            "entrance": 3,
+            "enable_hide_timestamp_in_hompage_square": 1,
+            "enable_reuse_cover_from_2c": true,
             "feed_double_column_preload_limit_count": 9,
-            "entrance": 0,
+            "guide_max_count": 0,
+            "quick_switch_text": "切换模式",
+            "show_photos_icon": true,
+            "show_video_icon": false,
             "show_video_time": false,
+            "title_row_number": 2,
+            "transiton_optimization": 1,
+            "welcome_card_url_dark": "https:\/\/lf3-static.bytednsdoc.com\/obj\/eden-cn\/lrbkeh7bpqnuhojnuhpq\/welcome_card_dark.png",
+            "welcome_card_url_light": "https:\/\/lf3-static.bytednsdoc.com\/obj\/eden-cn\/lrbkeh7bpqnuhojnuhpq\/welcome_card_light.png",
             "dislike_longpress_panel_config": {
                 "texts": {
                     "btn_advertising": "疑似广告",
@@ -73,17 +83,7 @@
                     "title_dislike": "💔 我不喜欢",
                     "btn_live_title": "标题令人不适"
                 }
-            },
-            "guide_max_count": 0,
-            "enable_reuse_cover_from_2c": true,
-            "show_video_icon": false,
-            "welcome_card_url_light": "https:\/\/lf3-static.bytednsdoc.com\/obj\/eden-cn\/lrbkeh7bpqnuhojnuhpq\/welcome_card_light.png",
-            "transiton_optimization": 1,
-            "quick_switch_text": "切换模式",
-            "welcome_card_url_dark": "https:\/\/lf3-static.bytednsdoc.com\/obj\/eden-cn\/lrbkeh7bpqnuhojnuhpq\/welcome_card_dark.png",
-            "enable_hide_timestamp_in_hompage_square": 1,
-            "show_photos_icon": true,
-            "title_row_number": 2
+            }
         },
         "edge_fast_speed_toast_style": false,
         "favorite_list_style": 1,
@@ -96,6 +96,10 @@
         },
         "homepage_long_press_setting": {
             "enable": 0,
+            "bubble_id": "home_longpress_finishsetting_bubble",
+            "click_direct_switch_c2": 1,
+            "default_setting": "direct_switch_c2",
+            "enable_setting_panel": 1,
             "setting_array": [
                 "refresh",
                 "preview_mode",
@@ -106,11 +110,7 @@
                 "preview_mode": "选择视图",
                 "direct_switch_c2": "切换单双列"
             },
-            "click_direct_switch_c2": 1,
-            "default_setting": "preview_mode",
-            "version": 20250514,
-            "bubble_id": "home_longpress_finishsetting_bubble",
-            "enable_setting_panel": 1
+            "version": 20250311
         },
         "homepage_remote_ab_config": {
             "homepage_remote_click_show_enable": false,
