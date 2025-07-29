@@ -17,6 +17,7 @@
         },
         "AWENotesDotProgress": false,
         "background_play_small_window_config": 0,
+        "c2_feed_switch_preview_entry": 0,
         "c2_recommend_feed_entry_style": {
             "enable": 0,
             "new_entry": 1,
@@ -158,6 +159,11 @@
         ],
         "long_press_play_control_modal_switch": 1,
         "pinch_long_press_hot_area_opt": 1,
+        "pinch_to_c2_feed": {
+            "enable": false,
+            "exit_guide_delay": 5,
+            "exp_version": "20240521"
+        },
         "pinch_video_scale_follow_opt": 1,
         "profile_like_status_shown_on_cover": 1,
         "profile_post_hot_sort_exposed": 0,
