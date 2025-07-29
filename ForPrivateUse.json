@@ -89,6 +89,7 @@
         "favorite_list_style": 1,
         "feed_desc_lines_count": 5,
         "feed_related_recommend_stable_entrance": null,
+        "general_search_layout_type": 2,
         "homepage_long_press_setting": {
             "enable": 0,
             "setting_array": [
