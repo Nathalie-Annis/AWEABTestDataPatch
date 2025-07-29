@@ -89,6 +89,11 @@
         "favorite_list_style": 1,
         "feed_desc_lines_count": 5,
         "feed_related_recommend_stable_entrance": null,
+        "general_search_double_column_pre_render_config": {
+            "enable": true,
+            "pre_render_count_after": 2,
+            "pre_render_count_before": 0
+        },
         "homepage_long_press_setting": {
             "enable": 0,
             "setting_array": [

@@ -65,6 +65,7 @@
 | `favorite_list_style` | 收藏列表切换样式按钮 | `1`/`0` 控制 |
 | `feed_desc_lines_count` | 部分图文文案显示的行数 | 官方默认值 `2` |
 | `feed_related_recommend_stable_entrance` | 文案末尾小箭头 | **删除此键** 不显示 |
+| `general_search_double_column_pre_render_config` | 搜索页搜索结果切换双列显示按钮 | `enable=false` 关闭 |
 | `homepage_long_press_setting` `homepage_remote_ab_config` | 首页单击/双击/长按行为配置 | 设置为 `false` 关闭相关功能 |
 | `hp_left_slide_to_user_page_config` | 关注、直播等页面边缘左滑进入用户主页 | `edge_slide_width` 控制边缘触发距离，官方默认值 `76` |
 | `im_share_panel_arrangement_strategy` | 新版分享面板失效问题 | **删除此键** 可解决 |
