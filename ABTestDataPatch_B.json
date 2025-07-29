@@ -87,6 +87,19 @@
             }
         },
         "edge_fast_speed_toast_style": true,
+        "familiar_recommend_entrance_lp_panel_pos": 1,
+        "familiar_recommend_icon_when_switch_share_and_recommend": {
+            "cancel_rec_in_lp_and_sp": [
+                "https:\/\/p3.douyinpic.com\/aweme-client-static-resource\/ic_rec_thumbup_green_cancel_new.png~tplv-obj.image",
+                "https:\/\/p6.douyinpic.com\/aweme-client-static-resource\/ic_rec_thumbup_green_cancel_new.png~tplv-obj.image",
+                "https:\/\/p9.douyinpic.com\/aweme-client-static-resource\/ic_rec_thumbup_green_cancel_new.png~tplv-obj.image"
+            ],
+            "rec_in_lp_and_sp": [
+                "https:\/\/p3.douyinpic.com\/aweme-client-static-resource\/ic_rec_thumbup_green_new.png~tplv-obj.image",
+                "https:\/\/p6.douyinpic.com\/aweme-client-static-resource\/ic_rec_thumbup_green_new.png~tplv-obj.image",
+                "https:\/\/p9.douyinpic.com\/aweme-client-static-resource\/ic_rec_thumbup_green_new.png~tplv-obj.image"
+            ]
+        },
         "favorite_list_style": 1,
         "feed_desc_lines_count": 5,
         "feed_related_recommend_stable_entrance": null,
@@ -141,6 +154,7 @@
             "show_capsule": 0
         },
         "long_press_modal_show_hint_label": true,
+        "long_press_panel_refactor": true,
         "long_press_panel_speed_optimize": {
             "long_press_new_speed_array": [
                 0.5,

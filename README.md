@@ -63,6 +63,8 @@
 | `detail_page_panel_config` | 视频文案展开样式控制 | `enable=0` 仅展开文案；`enable=1` 展示相关推荐 |
 | `double_column_recommend_exp` | 顶部推荐 Tab 样式及刷新机制 | 控制小白条展示行为 | 
 | `edge_fast_speed_toast_style` | 长按侧边倍速显示样式跟随新版长按菜单顶部样式 | `true`/`false` 控制 |
+| `familiar_recommend_entrance_lp_panel_pos` | 新版长按菜单的推荐入口显示 | `1`/`0` 控制 |
+| `familiar_recommend_icon_when_switch_share_and_recommend` | 加载推荐和取消推荐图标 | 需要填入完整链接 |
 | `favorite_list_style` | 收藏列表切换样式按钮 | `1`/`0` 控制 |
 | `feed_desc_lines_count` | 部分图文文案显示的行数 | 官方默认值 `2` |
 | `feed_related_recommend_stable_entrance` | 文案末尾小箭头 | **删除此键** 不显示 |
@@ -75,6 +77,7 @@
 | `long_press_fast_speed_enabled_scene` | 长按触发2倍速播放 | `true`/`false` 控制 |
 | `long_press_lock_speed_config` | 长按上/下拉锁定倍速触发距离 | 修改 `distance`，官方默认值 `distance=250` |
 | `long_press_modal_show_hint_label` | 新版长按菜单显示操作提示 | `true`/`false` 控制 |
+| `long_press_panel_refactor` | 新版长按菜单 | `true`/`false` 控制 |
 | `long_press_panel_speed_optimize` | 自定义长按面板中的倍速选项 | 可自由配置倍速参数 |
 | `long_press_play_control_modal_quick_items` | 新版长按菜单左右按钮显示的功能 | 设置为特定值开启对应功能 |
 | `long_press_play_control_modal_switch` | 新版长按菜单 | `1`/`0` 控制 |
