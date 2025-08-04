@@ -1,6 +1,7 @@
 {
     "mode": "DYYY_MODE_PATCH",
     "data": {
+        "AWEAlbumOverallCellLevelShrink": false,
         "AWEDetailCommentInputShow": true,
         "AWEFeedAlbumShortDescShowExpansion": false,
         "AWEFullPageEnableRelatedRecommend": {
